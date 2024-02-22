@@ -1,7 +1,7 @@
 {
-  "name": "neltec-entulhos",
+  "name": "neltecentulhos",
   "version": "0.1.0",
-  "homepage": "neltec-entulhos/",
+  "homepage": "neltecentulhos/",
   "private": true,
   "dependencies": {
     "@testing-library/react": "^13.4.0",
