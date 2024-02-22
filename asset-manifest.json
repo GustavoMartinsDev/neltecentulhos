@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github-page/static/css/main.a1891f67.css",
-    "main.js": "/github-page/static/js/main.158dfcab.js",
-    "static/js/453.e70e7330.chunk.js": "/github-page/static/js/453.e70e7330.chunk.js",
-    "static/media/logoEmpresa2.jpeg": "/github-page/static/media/logoEmpresa2.41596f902e2248c16bb2.jpeg",
-    "index.html": "/github-page/index.html",
-    "main.a1891f67.css.map": "/github-page/static/css/main.a1891f67.css.map",
-    "main.158dfcab.js.map": "/github-page/static/js/main.158dfcab.js.map",
-    "453.e70e7330.chunk.js.map": "/github-page/static/js/453.e70e7330.chunk.js.map"
+    "main.css": "/neltec-entulhos/static/css/main.a1891f67.css",
+    "main.js": "/neltec-entulhos/static/js/main.0f49fe37.js",
+    "static/js/453.e70e7330.chunk.js": "/neltec-entulhos/static/js/453.e70e7330.chunk.js",
+    "static/media/logoEmpresa2.jpeg": "/neltec-entulhos/static/media/logoEmpresa2.41596f902e2248c16bb2.jpeg",
+    "index.html": "/neltec-entulhos/index.html",
+    "main.a1891f67.css.map": "/neltec-entulhos/static/css/main.a1891f67.css.map",
+    "main.0f49fe37.js.map": "/neltec-entulhos/static/js/main.0f49fe37.js.map",
+    "453.e70e7330.chunk.js.map": "/neltec-entulhos/static/js/453.e70e7330.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1891f67.css",
-    "static/js/main.158dfcab.js"
+    "static/js/main.0f49fe37.js"
   ]
 }
