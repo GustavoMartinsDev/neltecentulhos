@@ -1,5 +1,5 @@
 import LogoEmpresa from './Assets/logoEmpresa2.jpeg'
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
 import './App.css';
 
 
@@ -17,12 +17,8 @@ function Home() {
 
 function App() {
   return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/neltecentulhos" element={<Home />} />
-        <Route path="*" element={<Home />} />
-      </Routes>
+    <Router basename='neltecentulhos'>
+      <Home />
     </Router>
   );
 }
