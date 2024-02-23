@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/neltecentulhos/static/css/main.a1891f67.css",
-    "main.js": "/neltecentulhos/static/js/main.8ab373fe.js",
-    "static/js/453.6352bb79.chunk.js": "/neltecentulhos/static/js/453.6352bb79.chunk.js",
+    "main.css": "/neltecentulhos/static/css/main.e77969a3.css",
+    "main.js": "/neltecentulhos/static/js/main.69bfe1e3.js",
     "static/media/logoEmpresa2.jpeg": "/neltecentulhos/static/media/logoEmpresa2.41596f902e2248c16bb2.jpeg",
     "index.html": "/neltecentulhos/index.html",
-    "main.a1891f67.css.map": "/neltecentulhos/static/css/main.a1891f67.css.map",
-    "main.8ab373fe.js.map": "/neltecentulhos/static/js/main.8ab373fe.js.map",
-    "453.6352bb79.chunk.js.map": "/neltecentulhos/static/js/453.6352bb79.chunk.js.map"
+    "main.e77969a3.css.map": "/neltecentulhos/static/css/main.e77969a3.css.map",
+    "main.69bfe1e3.js.map": "/neltecentulhos/static/js/main.69bfe1e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1891f67.css",
-    "static/js/main.8ab373fe.js"
+    "static/css/main.e77969a3.css",
+    "static/js/main.69bfe1e3.js"
   ]
 }
