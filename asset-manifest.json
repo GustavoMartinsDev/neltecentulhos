@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/neltecentulhos/static/css/main.e77969a3.css",
-    "main.js": "/neltecentulhos/static/js/main.69bfe1e3.js",
+    "main.js": "/neltecentulhos/static/js/main.3df4d03d.js",
     "static/media/logoEmpresa2.jpeg": "/neltecentulhos/static/media/logoEmpresa2.41596f902e2248c16bb2.jpeg",
     "index.html": "/neltecentulhos/index.html",
     "main.e77969a3.css.map": "/neltecentulhos/static/css/main.e77969a3.css.map",
-    "main.69bfe1e3.js.map": "/neltecentulhos/static/js/main.69bfe1e3.js.map"
+    "main.3df4d03d.js.map": "/neltecentulhos/static/js/main.3df4d03d.js.map"
   },
   "entrypoints": [
     "static/css/main.e77969a3.css",
-    "static/js/main.69bfe1e3.js"
+    "static/js/main.3df4d03d.js"
   ]
 }
